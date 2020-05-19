@@ -1,4 +1,4 @@
-baseURL = "http://in-sight.trading"
+baseURL = "https://in-sight.trading"
 disableLanguages = []
 disqusShortname = "educenter"
 paginate = "6"
